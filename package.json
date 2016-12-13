@@ -1,6 +1,6 @@
 {
   "name": "hubot-dockerhub",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Docker Hub to Hubot bridge. Be notified on Hubot when your image is pushed to Docker Hub",
   "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
   "homepage": "http://github.com/chamerling/hubot-dockerhub",
