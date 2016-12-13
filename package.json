@@ -1,0 +1,40 @@
+{
+  "name": "hubot-dockerhub",
+  "version": "0.0.0",
+  "description": "Docker Hub to Hubot bridge. Be notified on Hubot when your image is pushed to Docker Hub",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/hubot-dockerhub",
+  "keywords": [
+    "node",
+    "hubot",
+    "dockerhub"
+  ],
+  "maintainers": [
+    {
+      "name": "Christophe Hamerling",
+      "email": "christophe.hamerling@gmail.com"
+    }
+  ],
+  "contributors": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mths.be/mit"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/chamerling/hubot-dockerhub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/hubot-dockerhub.git"
+  },
+  "engines": {
+    "node": ">6",
+    "npm": ">1.0.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
