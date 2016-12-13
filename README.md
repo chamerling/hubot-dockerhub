@@ -1,4 +1,4 @@
-# hubot-dockerhub
+# hubot-dockerhub-webhook
 
 🤖 🛥 Docker Hub to [Hubot](http://hubot.github.com) webhook to notify Hubot on DockerHub events.
 
@@ -7,12 +7,12 @@
 - Install via npm
 
 ```
-npm install hubot-dockerhub --save
+npm install hubot-dockerhub-webhook --save
 ```
 - Add the following code in your external-scripts.json file.
 
 ```
-["hubot-dockerhub"]
+["hubot-dockerhub-webhook"]
 ```
 
 - Run hubot

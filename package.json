@@ -1,9 +1,9 @@
 {
-  "name": "hubot-dockerhub",
+  "name": "hubot-dockerhub-webhook",
   "version": "0.0.1",
   "description": "Docker Hub to Hubot bridge. Be notified on Hubot when your image is pushed to Docker Hub",
   "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
-  "homepage": "http://github.com/chamerling/hubot-dockerhub",
+  "homepage": "http://github.com/chamerling/hubot-dockerhub-webhook",
   "keywords": [
     "node",
     "hubot",
@@ -23,11 +23,11 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/chamerling/hubot-dockerhub/issues"
+    "url": "https://github.com/chamerling/hubot-dockerhub-webhook/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/chamerling/hubot-dockerhub.git"
+    "url": "http://github.com/chamerling/hubot-dockerhub-webhook.git"
   },
   "engines": {
     "node": ">6",
